@@ -1,4 +1,4 @@
-# DTS-Python-2021-Final-Project.
+# DTS-Python-2021-Final-Project
 
 ## Overview 
 This project is my group's final project that was presented at the end of Digital Talent Scholarship 2021 training. This project is about web scrapping where our group is extracting Indonesian movie data from the IMDB website, analyzed, and visualized it using several python libraries to obtain an insight into the Indonesian movies industry. 
